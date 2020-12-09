@@ -7,7 +7,7 @@
     },
     "image#landingbanner": {
         "props": {
-          "minWidth": 100,
+          "minWidth": "100%",
           "src": "https://content.ibuypower.com/Images/en-US/Site/AllDesktop/Gaming-Desktop_v2.jpg"
         }
       },
