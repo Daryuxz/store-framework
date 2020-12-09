@@ -42,11 +42,11 @@
       "minicart",
       "login"
     ],
-    
+
     "props": {
         "inverted": true ,
         "sticky": true ,
-        "fullWidht": false 
+        "fullWidth": false 
     }
   },
   "header-row#main-mobile": {
