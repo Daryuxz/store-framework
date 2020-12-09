@@ -22,9 +22,7 @@
   "flex-layout.row#results": {
     "children": [
       "flex-layout.col#filter",
-      "flex-layout.col#search",
-      "filter-navigator.v3"
-
+      "flex-layout.col#search"
     ]
   },
   "flex-layout.row#top": {
@@ -40,6 +38,9 @@
     "blocks": ["product-summary.shelf"]
   },
   "flex-layout.col#filter":{
+    "children": [
+      "filter-navigator.v3"
+    ],
     "props":{
       "width": "20%"
     }
