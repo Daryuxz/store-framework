@@ -22,7 +22,9 @@
   "flex-layout.row#results": {
     "children": [
       "flex-layout.col#filter",
-      "flex-layout.col#search"
+      "flex-layout.col#search",
+      "filter-navigator.v3"
+
     ]
   },
   "flex-layout.row#top": {
