@@ -21,12 +21,12 @@
     "flex-layout.col#img"
     ]
 },
-"flex-layout.row#menu": {
+"flex-layout.col#menu": {
     "children": [
         "vtex.menu@2.x:menu#major"
     ]
 },
-"flex-layout.row#img": {
+"flex-layout.col#img": {
     "children": [
         "image#menu",
         "rich-text#header"
