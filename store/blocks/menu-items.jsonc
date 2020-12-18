@@ -17,7 +17,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 2, 
+        "categoryId": 11, 
         "text": "Small Appliances"
       }
     },
@@ -31,7 +31,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 3, 
+        "categoryId": 11, 
         "text": "Electronics"
       }
     },
@@ -45,7 +45,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 4, 
+        "categoryId": 11, 
         "text": "Refrigerators"
       }
     }
@@ -56,7 +56,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 5, 
+        "categoryId": 11, 
         "text": "Ranges & Ovens"
       }
     }
@@ -67,7 +67,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 6, 
+        "categoryId": 11, 
         "text": "Washers & Dryers"
       }
     }
@@ -78,7 +78,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 7, 
+        "categoryId": 11, 
         "text": "Mixers & Blenders"
       }
     }
@@ -89,7 +89,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 8, 
+        "categoryId": 11, 
         "text": "Toasters & Grills"
       }
     }
@@ -100,7 +100,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 9, 
+        "categoryId": 11, 
         "text": "Coffee Makers"
       }
     }
@@ -111,7 +111,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 10, 
+        "categoryId": 11, 
         "text": "TVs"
       }
     }
@@ -133,7 +133,7 @@
       "type": "category",
       "highlight": true,
       "itemProps": {
-        "categoryId": 12, 
+        "categoryId": 11, 
         "text": "Cameras"
       }
     }
